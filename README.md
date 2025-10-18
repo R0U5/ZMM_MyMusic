@@ -199,7 +199,7 @@ This cassette pack is released under **MIT** (recommended).
 
 ## Changelog
 
-- **v1.0.0** — Initial release of Freethought Custom Cassette Pack
+- **v1.0.0** — Initial release of ZMM_MyMusic Custom Cassette Pack
 
 ---
 
@@ -210,3 +210,6 @@ Open a GitHub Issue with:
 - Your `ZenMusic*.json`
 - The cassette classname(s) you tested
 - A short description of what you expected vs what happened
+
+
+DOWNLOAD HERE: https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
