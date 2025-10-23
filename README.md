@@ -1,6 +1,6 @@
 # ZMM_MyMusic Custom Cassette Pack (for Zen’s Music Mod)
 
-Add a curated set of custom cassette tapes for **DayZ**. This pack plugs straight into **Zen’s Music Mod** so your tracks play in boomboxes, Walkmans, and vehicles — fully synced for everyone nearby.
+Add a curated set of custom cassette tapes for **DayZ**. This pack plugs straight into **Zen’s Music Mod** so your tracks play in boomboxes, Walkmans, and vehicles - fully synced for everyone nearby.
 
 > **Hard dependency:** **Zen’s Music Mod**. The music system, boomboxes, Walkman, vehicle playback, and client sync all come from Zen’s mod and must be installed on **both client and server**.
 
@@ -19,7 +19,7 @@ Zen’s base mod provides: cassettes, boombox, Walkman, vehicle playback, and ne
 ## Requirements
 
 - **Zen’s Music Mod** installed and loaded on **client + server**
-- Load this pack **after** Zen in your server’s mod list (or declare `ZenMusicBase` in `requiredAddons[]` — see Dev Notes)
+- Load this pack **after** Zen in your server’s mod list (or declare `ZenMusicBase` in `requiredAddons[]` - see Dev Notes)
 
 ---
 
