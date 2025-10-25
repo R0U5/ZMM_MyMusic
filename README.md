@@ -197,4 +197,4 @@ This cassette pack is released under **MIT** (recommended).
 
 *NC OSL‑A 1.0 © William Furtado. See `LICENSE`.*
 
-DOWNLOAD HERE: https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
+Downlaod: https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
