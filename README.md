@@ -195,21 +195,6 @@ This cassette pack is released under **MIT** (recommended).
 - Zen’s Music Mod — Steam Workshop (search “Zen’s Music Mod”)  
 - Zen’s documentation/wiki for music config, cassettes, boomboxes, and vehicle playback
 
----
-
-## Changelog
-
-- **v1.0.0** — Initial release of ZMM_MyMusic Custom Cassette Pack
-
----
-
-## Support
-
-Open a GitHub Issue with:
-- Your server RPT snippet (startup + any Zen/Audio errors)
-- Your `ZenMusic*.json`
-- The cassette classname(s) you tested
-- A short description of what you expected vs what happened
-
+*NC OSL‑A 1.0 © William Furtado. See `LICENSE`.*
 
 DOWNLOAD HERE: https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
