@@ -185,16 +185,8 @@ Zen_Cassette_S5
 - **Zenarchist** — author of **Zen’s Music Mod** (dependency) and original playback system.  
 - **ZMM_MyMusic** — cassette content, config, and integration for this pack.
 
-This cassette pack is released under **MIT** (recommended).  
+*NC OSL‑A 1.0 © William Furtado. See `LICENSE`.*
 > *Note:* Zen’s mod remains under its own license; please respect the upstream license and attribution requirements.
 
----
-
-## Helpful Links
-
-- Zen’s Music Mod — Steam Workshop (search “Zen’s Music Mod”)  
-- Zen’s documentation/wiki for music config, cassettes, boomboxes, and vehicle playback
-
-*NC OSL‑A 1.0 © William Furtado. See `LICENSE`.*
-
-Downlaod: https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
+## Download: 
+https://drive.google.com/file/d/1lRQUsjq438-_Env6EEXaJjpbsUEg-UOi
